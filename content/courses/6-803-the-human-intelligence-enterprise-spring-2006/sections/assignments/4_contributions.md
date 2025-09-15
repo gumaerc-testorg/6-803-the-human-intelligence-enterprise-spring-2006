@@ -4,6 +4,7 @@ course_id: 6-803-the-human-intelligence-enterprise-spring-2006
 description: ''
 file: null
 file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/371c54f7ba0aad737e5dbbe1d61ef1f6_4_contributions.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
